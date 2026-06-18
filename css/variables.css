@@ -1,0 +1,19 @@
+:root {
+  --espresso: #24140F;
+  --milk-foam: #F6EDE0;
+  --crema: #D8B98F;
+  --cherry: #A84932;
+  --sage: #7E8A72;
+
+  --font-heading: 'Cormorant Garamond', serif;
+  --font-body: 'Manrope', sans-serif;
+  --font-mono: 'IBM Plex Mono', monospace;
+
+  --h1-size: 96px;
+  --h2-size: 56px;
+  --body-size: 18px;
+  --body-line: 1.55;
+  --container: 1200px;
+  --radius: 12px;
+  --radius-pill: 999px;
+}
