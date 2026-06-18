@@ -50,7 +50,7 @@ Brew & Co./
 Works out of the box on any static host:
 
 1. Clone the repo
-2. Open `index.html` in a browser=
+2. Open `index.html` in a browser
 
 ## Browser Support
 
