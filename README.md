@@ -1,6 +1,6 @@
 # Brew & Co.
 
-Single-page landing page for a specialty coffee brand. Built with vanilla HTML, CSS, and JavaScript — no frameworks, no build tools.
+Single-page landing page for a coffee brand. Built with vanilla HTML, CSS, and JavaScript — no frameworks, no build tools.
 
 ## Features
 
